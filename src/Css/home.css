@@ -1,0 +1,41 @@
+.div_subject{
+    border: 1px solid rgb(19, 105, 139);
+    padding: 40px;
+    border-radius: 60px;
+    margin-top: 6%;
+    width: 100%;    
+    background:linear-gradient(to top, #1F8A89 ,#ffffff);
+  
+}
+
+
+
+.Container_Home{
+    margin-top: 4% ; 
+    max-width: 100%;    
+   
+}
+
+.Button_Home{
+    font-size: medium;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    box-shadow: 4px 4px rgb(0, 0, 0);
+    transition: width 0.3s, height 0.3s;
+}
+.Button_Home:hover{
+    transform: scale(1.1);
+}
+
+.IconMap  {
+    margin-top: 15%;
+    width:40%;
+    height:auto;
+    transition: width 0.3s, height 0.3s;
+    margin-bottom: 40px;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+  }
